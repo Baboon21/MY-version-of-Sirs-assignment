@@ -1,0 +1,13 @@
+H:\Programming\New folder\Assignment_3\bin\Debug\Assignment_3.exe.config
+H:\Programming\New folder\Assignment_3\bin\Debug\Assignment_3.exe
+H:\Programming\New folder\Assignment_3\bin\Debug\Assignment_3.pdb
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.csproj.AssemblyReference.cache
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.csproj.SuggestedBindingRedirects.cache
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.Form1.resources
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.Properties.Resources.resources
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.UC_Home.resources
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.UC_Inventory.resources
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.csproj.GenerateResource.cache
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.exe
+H:\Programming\New folder\Assignment_3\obj\Debug\Assignment_3.pdb
